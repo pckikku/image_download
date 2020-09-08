@@ -55,6 +55,6 @@ This is the simple python and JavaScript Code for downloading the images from go
 
 
 Any doudt 
-<a href="instagram.com/al_ajas1">Instagram</a>
+<a href="instagram.com/al_ajas1">Instagram</a><br>
 +91 9061161567 (Whatsapp Only)
   
