@@ -31,7 +31,7 @@ it have developedby the compination of two programic languages
       --by pressing F12
   <li>Scroll The Images for upto your deired level<br>
     if you want more scroll more
-  <li>Back to the console and paste the <b>JavaScript </b> Folder codes one by one<br>
+  <li>Back to the console and paste the <b>JavaScript </b> Folder codes one by one</li>
   The Working flow of each javascript code
    
     <ol>
