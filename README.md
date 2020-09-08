@@ -28,7 +28,7 @@ it have developedby the compination of two programic languages
   <li>like Sunny Leone</li>
   <li>Go to the image option</li>
   <li>Open Console</li>
-    by pressing F12
+      --by pressing F12
   <li>Scroll The Images for upto your deired level<br>
     if you want more scroll more
   <li>Back to the console and paste the <b>JavaScript </b> Folder codes one by one<br>
