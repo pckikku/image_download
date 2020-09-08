@@ -40,8 +40,21 @@ Steps
     5. Caling the graburl function
         This will download a url.txt file
 
-2.Download
-
+2.Download the images using the 
+  
+  1.Copy the url.txt to the python folder
+  2.Run the main.py
+      
      
 
+
+
+This is the simple python and JavaScript Code for downloading the images from google
+
+
+
+
+Any doudt 
+<a href="instagram.com/al_ajas1">Instagram</a>
++91 9061161567 (Whatsapp Only)
   
