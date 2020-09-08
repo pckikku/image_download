@@ -34,15 +34,17 @@ it have developedby the compination of two programic languages
     if you want more scroll more
   <li>Back to the console and paste the <b>JavaScript </b> Folder codes one by one</li>
   The Working flow of each javascript code
-  </ol>
-   
+
+  <ol>
+ 
     
-    <li> This function effectively simulates right clicking on an image shown in your browser</li>
-    <li> Each image URL is stored in a query string. The snippet above pulls the URL out of the query.</li>
-    <li> Each of our URLs will be in the contents parameter passed to our createDownload function. </li>
-    <li> function creates what JavaScript calls a Promise Given that this is a Python blog, I’ll draw parallels from JavaScript’s Promiseto Python’s async</li>
-    <li> Caling the graburl function</li>
-        This will download a url.txt file
+  <li>This function effectively simulates right clicking on an image shown in your browser</li>
+  <li>Each image URL is stored in a query string. The snippet above pulls the URL out of the query.</li>
+  <li>Each of our URLs will be in the contents parameter passed to our createDownload function. </li>
+  <li>function creates what JavaScript calls a Promise Given that this is a Python blog, I’ll draw parallels from JavaScript’s Promiseto Python’s async</li>
+  <li>Caling the graburl function</li>
+  <li>This will download a url.txt file
+   </ol>
       
   </ol>
 
