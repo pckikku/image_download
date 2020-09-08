@@ -22,6 +22,7 @@ it have developedby the compination of two programic languages
 # Steps
 
 # 1.For Getting the urls from google for our keyword
+<html>
 <ol>
   <li>Open Chrome</li>
   <li>Search The Desired Keyword</li>
@@ -33,6 +34,7 @@ it have developedby the compination of two programic languages
     if you want more scroll more
   <li>Back to the console and paste the <b>JavaScript </b> Folder codes one by one</li>
   The Working flow of each javascript code
+  </ol>
    
     
     <li> This function effectively simulates right clicking on an image shown in your browser</li>
@@ -61,4 +63,5 @@ it have developedby the compination of two programic languages
 Any doubt<br>
 <a href="https://www.instagram.com//al_ajas1">Instagram</a><br>
 <a href="https://www.wa.me/+919061161560">WhatsApp</a>
+</html>
   
