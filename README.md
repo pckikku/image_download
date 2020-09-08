@@ -12,14 +12,14 @@ it have developedby the compination of two programic languages
   Simply it download the images from the urls
   
   
- #REQUREMENTS
+ # REQUREMENTS
  1. 0 Code Knowledge
  2. Chrome Browser
  3. Python 3
  
  
  
-Steps
+# Steps
 
 1.For Getting the urls from google for our keyword
 
