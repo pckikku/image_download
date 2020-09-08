@@ -1,4 +1,4 @@
-# image_download
+# image_download_Using_Python
 
 This is a simple image downloading program 
 it have developedby the compination of two programic languages
@@ -22,16 +22,16 @@ it have developedby the compination of two programic languages
 # Steps
 
 # 1.For Getting the urls from google for our keyword
-
-  1.Open Chrome<br>
-  2.Search The Desired Keyword<br>
-    like Sunny Leone<br>
-  3.Go to the image option<br>
-  4.Open Console<br>
+<ol>
+  <li>Open Chrome</li>
+  <li>Search The Desired Keyword</li>
+  <li>like Sunny Leone</li>
+  <li>Go to the image option</li>
+  <li>Open Console</li>
     by pressing F12
-  5.Scroll The Images for upto your deired level<br>
+  <li>Scroll The Images for upto your deired level<br>
     if you want more scroll more
-  6.Back to the console and paste the <b>JavaScript </b> Folder codes one by one<br>
+  <li>Back to the console and paste the <b>JavaScript </b> Folder codes one by one<br>
   The Working flow of each javascript code
     1. This function effectively simulates right clicking on an image shown in your browser<br>
     2. Each image URL is stored in a query string. The snippet above pulls the URL out of the query.<br>
@@ -39,6 +39,7 @@ it have developedby the compination of two programic languages
     4. function creates what JavaScript calls a Promise Given that this is a Python blog, I’ll draw parallels from JavaScript’s Promiseto Python’s async<br>
     5. Caling the graburl function<br>
         This will download a url.txt file
+  </ol>
 
 # 2.Download the images using the <br>
   
