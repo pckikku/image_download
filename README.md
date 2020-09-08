@@ -21,7 +21,7 @@ it have developedby the compination of two programic languages
  
 # Steps
 
-1.For Getting the urls from google for our keyword
+# 1.For Getting the urls from google for our keyword
 
   1.Open Chrome<br>
   2.Search The Desired Keyword<br>
@@ -40,7 +40,7 @@ it have developedby the compination of two programic languages
     5. Caling the graburl function<br>
         This will download a url.txt file
 
-2.Download the images using the <br>
+# 2.Download the images using the <br>
   
   1.Copy the url.txt to the python folder<br>
   2.Run the main.py<br>
