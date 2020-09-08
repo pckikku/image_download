@@ -48,7 +48,7 @@ it have developedby the compination of two programic languages
       
   </ol>
 
-# 2.Download the images using the <br>
+# 2.Download the images using the Python <br>
   
   1.Copy the url.txt to the python folder<br>
   2.Run the main.py<br>
